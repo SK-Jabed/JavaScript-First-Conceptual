@@ -143,3 +143,31 @@ var y = 100;
 var mod = (x % y);
 
 console.log(mod);
+
+// Operation Shorthand Format 
+
+var x = 69;
+x = x + 1;
+console.log(x);
+
+var x = 69;
+x += 1;
+console.log(x);
+
+var x = 52;
+x = x - 22;
+console.log(x);
+
+var x = 52;
+x -= 22;
+console.log(x);
+
+var x = 15;
+x++;
+
+console.log(x);
+
+var x = 15;
+x--;
+
+console.log(x);
