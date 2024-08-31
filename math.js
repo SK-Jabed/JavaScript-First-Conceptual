@@ -111,3 +111,35 @@ var y = 69;
 var sub = x - y;
 var value = divide.toFixed(4);
 console.log(6 + Number(value));
+
+
+// x^2, x^3 and x^4 
+
+var x = 5;
+console.log(x ** 2);
+
+var x = 3;
+console.log(x ** 3);
+
+var x = 4;
+console.log(x ** 4);
+
+// Modulus 
+
+var x = 10;
+var y = 3;
+var mod = (x % y);
+
+console.log(mod);
+
+var x = 10;
+var y = 2;
+var mod = (x % y);
+
+console.log(mod);
+
+var x = 12;
+var y = 100;
+var mod = (x % y);
+
+console.log(mod);
