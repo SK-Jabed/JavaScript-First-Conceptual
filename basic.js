@@ -63,9 +63,9 @@
 // var class; [Can not use any reserved keyword]
 
 // Good Practice
-// var height;
-// var myHeight; // camel case
-// var my_height; // snake case
+var height;
+var myHeight; // camel case
+var my_height; // snake case
 
 var age = "my age";
 var Age = "your age";
