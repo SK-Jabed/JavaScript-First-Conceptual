@@ -75,3 +75,39 @@ console.log(typeof value);
 
 // parseFloat
 
+var x = 6969;
+var y = 69;
+var divide = x / y;
+var value = divide.toFixed(2);
+console.log(value);
+console.log(69 + value);
+
+var x = 6969;
+var y = 69;
+var divide = x / y;
+var value = parseFloat(divide.toFixed(2));
+console.log(value);
+console.log(69 + value);
+
+// parseInt
+
+var x = 69.6969;
+var y = 69;
+var add = x + y;
+// var value = parseFloat(add.toFixed(4));
+var value = parseInt(add.toFixed(4));
+console.log(value);
+
+// Number 
+
+var x = 6969.69;
+var y = 69;
+var sub = x - y;
+var value = divide.toFixed(2);
+console.log(69 + value);
+
+var x = 6969.69;
+var y = 69;
+var sub = x - y;
+var value = divide.toFixed(4);
+console.log(6 + Number(value));
