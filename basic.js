@@ -1,5 +1,5 @@
 // console.log(5); // Number Type
-// console.log('SKJ'); // String Type
+// console.log("SKJ"); // String Type
 // console.log(true); // Boolean Type
 
 
