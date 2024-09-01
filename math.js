@@ -144,6 +144,7 @@ var mod = (x % y);
 
 console.log(mod);
 
+
 // Operation Shorthand Format 
 
 var x = 69;
